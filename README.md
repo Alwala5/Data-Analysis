@@ -1,0 +1,3 @@
+The main objective of this project is to visualize IPL, T20 League data set which held from 2008 to 2017 uing Tableau and gaining business insights from it...
+Data sets used in this project has been attached.
+Using the two datasets (matches.csv, deliveries.csv) attached, I've created dashboards pertaining to the different types of statistics like match statistics, player statistics, team statistics to gain some interesting insights out of it.
